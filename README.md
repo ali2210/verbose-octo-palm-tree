@@ -1,7 +1,6 @@
 # verbose-octo-palm-tree
-GO integrate with Firebase
+GO integrate with Firebase. Testing purpose
 
 Docker_Image
-    ## docker run -it verbose-octo
-
-Design for Testing purpose 
+   
+    ## docker run -it verbose-octo 
